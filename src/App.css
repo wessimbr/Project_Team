@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+root {
+
+  --font: slategrey;
+  --background: wheat;
+  --menuColor: slategrey;
+}
+
+
+
+body {
+  width: auto;
+  background-image: url('https://images.unsplash.com/photo-1606625736768-f521ab7e23fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=jeswin-thomas-PtfRiBumfQU-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  background-color: wheat;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
